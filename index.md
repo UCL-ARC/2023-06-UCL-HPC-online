@@ -367,6 +367,7 @@ please preview your site before committing, and make sure to run
   {% endif %}
   workshop,
   you will need access to software as described below.
+  You must apply for access to Myriad in advance of the course via the web form at the following link: <a href=https://www.rc.ucl.ac.uk/docs/Account_Services/>Research Computing account services</a>. Please fill in the request as soon as you register as it can take a couple of days for accounts to be activated.
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
